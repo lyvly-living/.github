@@ -1,10 +1,10 @@
-### Chnage Description
+### Change Description
 
 _Please describe the changes here_
 
 ### All Changes:
 
-* [ ] Have you written code that adheres to the Lyvly code style guide
-* [ ] Have you written unit and integration tests for new functionality
-* [ ] Is this code immediately deployable
-* [ ] Has your work been demonstrated to stakeholders
+* [ ] Code adheres to the Lyvly code style guide
+* [ ] Unit and integration tests written for new functionality
+* [ ] Code is immediately deployable
+* [ ] Work has been demonstrated to stakeholders
